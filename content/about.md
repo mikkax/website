@@ -1,25 +1,27 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "About Anton V. Andrievskiy"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "about-me", "contact"]
+author = "Anton V. Andrievskiy"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+🚀 About Me
 
-Hugo makes use of a variety of open source projects including:
+With over 15 years of deep-seated experience in Quality Assurance (QA) and Test Automation, and more than a decade in management, I have dedicated my career to elevating the standards of software quality and efficiency. My journey has been marked by a relentless pursuit of excellence, leading teams to innovate and exceed industry benchmarks consistently.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+🔍 Professional Journey
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+As a seasoned leader in QA and Test Automation, I specialize in orchestrating high-performing teams, streamlining testing processes, and integrating cutting-edge technologies to enhance product reliability and speed to market. My expertise spans across various industries, enabling me to adapt and deliver solutions that meet diverse operational needs.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+🌟 Leadership
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Leadership for me is about influence and inspiration. Over the past 12 years, I have honed my skills in managing dynamic teams, fostering an environment that encourages innovation, continuous learning, and a strong sense of accountability. My leadership philosophy centers on building transparent, motivated teams that thrive on challenges and are committed to growth.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+👥 Community Engagement
+
+I proud to be a leader of the [QA Experience](https://t.me/+ajl2toagjDVhZWQ6) community, a vibrant network of quality assurance professionals committed to sharing best practices and advancing the field of QA. This role allows me to give back to the community by mentoring emerging talents and facilitating discussions that drive our industry forward.
+
+🔗 Let's Connect!
+
+I am always eager to connect with fellow professionals who are passionate about quality assurance, test automation, and leadership. Whether you’re looking for advice, collaboration, or just a conversation about the latest trends in QA, feel free to reach out!

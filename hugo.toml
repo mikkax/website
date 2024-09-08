@@ -16,10 +16,9 @@ noClasses = false
 
 [params]
 author = "Anton V. Andrievskiy"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Anton V. Andrievskiy's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["QA Team Lead"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -136,35 +135,35 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/mikkax/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa-brands fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa-brands fa-gitlab fa-2x"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
-url = "https://twitter.com/johndoe/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa-brands fa-x-twitter fa-2x"
+#weight = 3
+#url = "https://twitter.com/johndoe/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/mikkax/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa-brands fa-medium fa-2x"
-weight = 5
-url = "https://medium.com/@johndoe"
+#[[params.social]]
+#name = "Medium"
+#icon = "fa-brands fa-medium fa-2x"
+#weight = 5
+#url = "https://medium.com/@johndoe"
 
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://mikkax.github.io/website/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
@@ -197,7 +196,7 @@ title = "Андриевский Антон"
 
 [languages.ru.params]
 author = "Андриевский Антон"
-info = "Full Stack DevOps e Mágico"
+info = "QA Team Lead"
 description = "Персональный сайт Андриевского Антона"
 keywords = "блог,резюме,личный"
 
