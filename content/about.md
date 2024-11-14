@@ -6,22 +6,25 @@ aliases = ["about-us", "about-me", "contact"]
 author = "Anton V. Andrievskiy"
 +++
 
-🚀 About Me
+**QA Team Lead with over 10 years of experience and expertise in building highly efficient QA processes, managing teams, and optimizing DevOps pipelines for large-scale projects.**
 
-With over 15 years of deep-seated experience in Quality Assurance (QA) and Test Automation, and more than a decade in management, I have dedicated my career to elevating the standards of software quality and efficiency. My journey has been marked by a relentless pursuit of excellence, leading teams to innovate and exceed industry benchmarks consistently.
+**Key Achievements:**
 
-🔍 Professional Journey
+- **Leading QA Teams**: Led four QA teams, training and mentoring more than 10 specialists in test automation.
+    
+- **Process Optimization**: Implemented automated testing and quality gates for the Upayment.kz project, ensuring stable performance for over three years.
+    
+- **Load Testing Implementation**: Configured pipelines using Gatling, helping to achieve and maintain performance at over 1000 TPS.
+    
+- **QA Framework Development**: Developed frameworks for all levels of automation using SpringBootTest, TestContainers, Reactive WebTestClient, Selenide, Cucumber, and Allure TestOps.
+    
+- **BI Solutions Implementation**: Integrated Apache Superset into the Upayment.kz project, reducing the load on Backoffice development and providing the business team with a powerful analytics tool.
+    
+- **Integration with External Companies**: Facilitated integration and connection with over 10 banks for the Upayment.kz project.
+    
+- **Tech Lead and DevOps Responsibilities**: Implemented architectural solutions and optimized pipelines, improving CI/CD processes for the project.
+    
 
-As a seasoned leader in QA and Test Automation, I specialize in orchestrating high-performing teams, streamlining testing processes, and integrating cutting-edge technologies to enhance product reliability and speed to market. My expertise spans across various industries, enabling me to adapt and deliver solutions that meet diverse operational needs.
+**Personal Qualities and Approach**: Committed to fostering effective collaboration between teams, focused on implementing new technologies and solutions that enhance work efficiency and improve end-user satisfaction. Self-starter with a “can-do” attitude.
 
-🌟 Leadership
-
-Leadership for me is about influence and inspiration. Over the past 12 years, I have honed my skills in managing dynamic teams, fostering an environment that encourages innovation, continuous learning, and a strong sense of accountability. My leadership philosophy centers on building transparent, motivated teams that thrive on challenges and are committed to growth.
-
-👥 Community Engagement
-
-I proud to be a leader of the [QA Experience](https://t.me/+ajl2toagjDVhZWQ6) community, a vibrant network of quality assurance professionals committed to sharing best practices and advancing the field of QA. This role allows me to give back to the community by mentoring emerging talents and facilitating discussions that drive our industry forward.
-
-🔗 Let's Connect!
-
-I am always eager to connect with fellow professionals who are passionate about quality assurance, test automation, and leadership. Whether you’re looking for advice, collaboration, or just a conversation about the latest trends in QA, feel free to reach out!
+**Interests**: Family, photography, investments, outdoor activities in the mountains and on beaches.
